@@ -1,9 +1,6 @@
 # yt-bot-tutorial
 
-<h1>Hugodog youtube bot tutorial</h1>
-<p>This will hold all of the files used to make the bot and there will laos be instructions on what to do</p>
-<p>Important files:<br>Install these before doing this<br><br>Node js: https://nodejs.org/en/download/<br>VS Code: https://code.visualstudio.com/Download<br>Make a bot here: https://discord.com/developers/applications</p>
-<p>1. Download files</p>
-<p>2. Open terminal and type "npm install" without the quotation marks<br><br>3. Change the token in the .env file to your own token</p>
-
-<p>4. Open terminal and type "node ." without the quotation marks</p>
+<h1>Youtube coding tutorials</h1>
+<p>Hey there im guessing you came from my youtube channel if you didnt you can check it out here: https://www.youtube.com/channel/UCL0zxiIA04Ql7XUBWgq92qg</p>
+<p>Thank you for following my tutorials on how to make discord.js bots</p>
+<p>All of the episodes have their own branch with the episode number!</p>
